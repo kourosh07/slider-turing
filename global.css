@@ -629,13 +629,13 @@ h1-u {
   margin: 0;
 }
 
-/* h2 {
+h2 {
   font-size: 11px;
   line-height: 1;
   margin: 0;
 }
 
-h2-u {
+/* h2-u {
   font-size: 11px;
   line-height: 0;
   margin: 0;
@@ -646,11 +646,11 @@ h3 {
   margin: 0;
 }
 
-h3-u {
+/* h3-u {
   font-size: 10px;
   margin: 0;
 }
-
+ */
 br-x,
 br-1 {
   display: block;
