@@ -764,14 +764,14 @@ a-x:hover {
 ::selection {
   background: green;
 }
-
+/* 
 h6 {
   display: contents;
   font-weight: normal;
   font-size: 10px;
   line-height: 0;
 }
-
+ */
 h5 {
   display: contents;
   font-weight: normal;
