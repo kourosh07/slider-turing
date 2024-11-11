@@ -772,11 +772,11 @@ h6 {
   line-height: 0;
 }
  */
-h5 {
+/* h5 {
   display: contents;
   font-weight: normal;
   font-size: 11px;
-}
+} */
 
 h4 {
   display: contents;
